@@ -1,4 +1,4 @@
-// PRINCIPALES FUNCIONES MATEMATICAS INTERNAS DE JAVA SCRIPT.
+// PRINCIPALES FUNCIONES MATEMATICAS JS
 var precio = Math.ceil(4359.9);
 document.write('El precio redondeado:', precio);
 document.write ('<br>');
